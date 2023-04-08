@@ -1,0 +1,21 @@
+export const LOGIN_REQUEST = 'LOGIN_REQUEST';
+
+export const SIGNUP_REQUEST = 'SIGNUP_REQUEST';
+
+export const SUCCESS = 'SUCCESS';
+
+export const FAILURE = 'FAILURE';
+
+export const LOGOUT_REQUEST ='LOGOUT_REQUEST';
+
+export const GET_ERRORS = 'GET_ERRORS';
+
+export const GET_TRANSACTIONS ='GET_TRANSACTIONS';
+
+export const GET_WALLET = 'GET_WALLET';
+
+export const DELETE_WALLET ='DELETE_WALLET';
+
+export const RECHARGE_WALLET = 'RECHARGE_WALLET';
+
+export const TRANSFER_AMOUNT = 'TRANSFER_AMOUNT';
